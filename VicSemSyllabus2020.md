@@ -15,6 +15,28 @@ This research-intensive honors seminar centers around two simple central questio
 
 This class will help you develop our skills in research in print, digital, and manuscript or typescript sources; how to use and evaluate a range of databases and digital tools; how to think about citation practices as substantive and central to our work as scholars of literature. It will ask you to examine your own implicit and explicit research practices and habits, and (in some cases) to experiment with modifying them or developing new ones. We may incorporate various computational elements into our work, from the basics of plain-text authoring, citation management, and keeping an open research notebook to using digital tools to help us analyze individual novels and groups of novels.
 
+Would it be possible for me to do the longer seminar reflections on weeks 4, 5, and 10, to do the criticism summaries on weeks 3, 9, and 13, and the close readings on weeks 6, 8, and 13? If any of those dates have already been taken I'd be happy to switch around. I was also thinking of bringing break snacks during the second half of the semester, but I don't really have a preference for when—whenever's convenient for other people.
+
+Thanks,
+Shaoni
+
+Hi Prof. Buurma,
+
+Can I request the following schedule for writing:
+Feb 10 seminar paper
+Feb 17 close reading
+Feb 24 close reading
+Mar 2 seminar paper
+Mar 16 criticism summary
+Mar 23 close reading
+Apr 13 criticism summary
+Apr 20 criticism summary
+
+And I can do break Feb 10, Mar 2, and Mar 16.
+
+Best,
+Maya
+
 ### Part 1: surveillance, omniscience, self-making, realism
 
 #### Week 1, January 27: Introduction
@@ -65,11 +87,11 @@ some topics:  publishing,  precarity, autobiography; novel theory; realism overv
 + Catherine Gallagher, "The Rise of Fictionality"
 + 19th c copyright reading
 + CopyrightX Week 3
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Shaoni, Nicole
++ close reading: Nicole
++ criticism summary: Shaoni
++ seminar paper/reflection: Maya
++ break: Maya
 
 #### Week 4, February 17: women's writing, precarity, serialization, publication
 
@@ -80,11 +102,11 @@ some topics: women's writing;  Trollope and/vs Oliphant; comparison; gender and 
 +  serialization reading
 +  19th c copyright reading
 + precarity reading
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Maya, Theo
++ close reading: Maya
++ criticism summary: Theo
++ seminar paper/reflection: Shaoni
++ break: Theo
 
 #### Week 5, February 24:
 
@@ -94,11 +116,11 @@ six Barsetshire novels or the Carlingford novels as part of a single world?); ro
 + Miss Marjoribanks (1865-6), second half
 + Lauren Goodlad, "Bigger Love"
 + Eric Hayot, from *On Literary Worlds*
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Shaoni, Nicole
++ close reading: Maya
++ criticism summary: Nicole, Theo
++ seminar paper/reflection: Shaoni
++ break: Nicole
 
 *Trip to PMA Designs for Different Futures exhibit Wednesday evening*
 
@@ -114,11 +136,11 @@ some topics:
 + D.A. Miller, from *Jane Austen and the Secret of Style*
 + Lit Lab Canon/Archive pamphlet
 + another autobio reading
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Maya, Theo
++ close reading: Shaoni, Theory
++ criticism summary: Theo
++ seminar paper/reflection: Maya, Nicole
++ break: Maya
 
 #### Week 7, March 9: spring break (read *Villette*)
 
@@ -136,11 +158,11 @@ some topics: surveillance; realism and the occult; precarity; technology; gender
 + Ted Underwood, David Bamman, and Sabrina Lee, [The Transformation of Gender in English-Language Fiction](http://culturalanalytics.org/2018/02/the-transformation-of-gender-in-english-language-fiction/) and
 +  take a look at the data and code for above article: https://github.com/tedunderwood/character
 + including this browsable interface that lets you explore the gendering of specific words: https://github.com/tedunderwood/character
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Shaoni, Nicole
++ close reading: Shaoni
++ criticism summary: Maya, Nicole
++ seminar paper/reflection: Theo
++ break: Maya
 
 *SHS paper assigned*
 
@@ -164,11 +186,11 @@ Temptation*
 + Ann Blair, “Note-taking as Information Management” from *Too Much to
 Know*
 + Henry Wheatley, from What is an Index? (skim)
-+ discussion and outline: Sagnik
-+ close reading: Laura, Sagnik
-+ criticism summary: Hali
-+ seminar paper: Keton
-+ break:
++ discussion and outline: Maya, Theo
++ close reading: Maya, Theo
++ criticism summary: Shaoni
++ seminar paper/reflection: Nicole
++ break: Shaoni
 
 #### Week 10, March 30:
 
@@ -184,23 +206,23 @@ some topics: marriage plots, sensation, empire, global print circulation
 + carry forward: Barthes, "Reality Effect" and *Preparation"
 + question: canon, archive, corpus: how do we think about all the
 novels?
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Shaoni, Nicole
++ close reading: Theo
++ criticism summary: Nicole
++ seminar paper/reflection: Shaoni
++ break: Theo
 
 ### week of March 30 tba: printing workshop
 
 #### March 31: SHS paper rough draft due (seminar can finalize this date)
 
-#### Week 11: April 6: SHS paper workshop
+#### Week 11, April 6: SHS paper workshop
 
 + Mary Elizabeth Braddon, *Lady Audley's Secret*, first half
 + in-class SHS workshop
-+ break:
++ break: Nicole
 
-#### April 13:  search and research
+#### Week 12, April 13:  search and research
 some topics: sensation novel, gender and sexuality, surveillance, search and research
 
 + Mary Elizabeth Braddon, *Lady Audley's Secret* (1862), finish
@@ -210,42 +232,42 @@ some topics: sensation novel, gender and sexuality, surveillance, search and res
 + Ted Underwood, "Theorizing Practices We Forgot to Theorize Twenty Years Ago"
 + Ted Underwood, "Intro: Historical Contrast and the Prestige of Literary Culture" and "Chapter 6: Digital Humanities and the Future of Literary History" in *Why Literary Periods Mattered : Historical Contrast and the Prestige of English Studies*
 + Christina Sharpe, from *In the Wake*
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Maya, Theo
++ close reading: Nicole
++ criticism summary: Maya
++ seminar paper/reflection: Theo
++ break: Shaoni
 
 *Christina Sharpe at Haverford, Thursday April 16th, 4:30 pm, VCAM*
 
-#### April 20: reference and everyday life
+#### Week 13, April 20: reference and everyday life
 + George Eliot, *Middlemarch* (1871-2), books 1, 2, 3
 + Leah Price, from *The Anthology and the Rise of the Novel*
 + David Kurnick, “An Erotics of Detachment"
+
 + SHS work
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper:
-+ break:
++ discussion and outline: Shaoni, Nicole
++ close reading: Shaoni, Theo
++ criticism summary: Shaoni, Maya
++ seminar paper/reflection: Nicole
++ break: Rachel
 
-#### April 27:
+#### Week 14, April 27: social totalities and literary values
 + George Eliot, *Middlemarch* (1871-2), books 4, 5, 6
-
-#### April 29: SHS papers due (CHECK)
-
-#### May 3: social totalities and literary values
-+ George Eliot, *Middlemarch*, finish
-+ reading
-+ reading
 + Sarah Allison, "George Eliot's Discerning Syntax"
 + Sarah Allison, from *Reductive Reading*
 + examine [Quarry for
 Middlemarch](http://pds.lib.harvard.edu/pds/view/35524557 )
++ discussion and outline: all
++ break: Rachel
+
+#### April 29: SHS papers due (CHECK)
+
+
 + discussion and outline:
 + close reading:
 + criticism summary:
-+ seminar paper:
++ seminar paper: Theo
 + break:
 
 ***
