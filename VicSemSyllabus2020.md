@@ -15,27 +15,15 @@ This research-intensive honors seminar centers around two simple central questio
 
 This class will help you develop our skills in research in print, digital, and manuscript or typescript sources; how to use and evaluate a range of databases and digital tools; how to think about citation practices as substantive and central to our work as scholars of literature. It will ask you to examine your own implicit and explicit research practices and habits, and (in some cases) to experiment with modifying them or developing new ones. We may incorporate various computational elements into our work, from the basics of plain-text authoring, citation management, and keeping an open research notebook to using digital tools to help us analyze individual novels and groups of novels.
 
-Would it be possible for me to do the longer seminar reflections on weeks 4, 5, and 10, to do the criticism summaries on weeks 3, 9, and 13, and the close readings on weeks 6, 8, and 13? If any of those dates have already been taken I'd be happy to switch around. I was also thinking of bringing break snacks during the second half of the semester, but I don't really have a preference for when—whenever's convenient for other people.
-
-Thanks,
-Shaoni
-
-Hi Prof. Buurma,
-
-Can I request the following schedule for writing:
-Feb 10 seminar paper
-Feb 17 close reading
-Feb 24 close reading
-Mar 2 seminar paper
-Mar 16 criticism summary
-Mar 23 close reading
-Apr 13 criticism summary
-Apr 20 criticism summary
-
-And I can do break Feb 10, Mar 2, and Mar 16.
-
-Best,
-Maya
+Feb 10: 1st close reading
+Feb 17: 2nd criticism
+Feb 24: 1st seminar paper + 1st bring food
+March 2: 2nd close reading
+March 16: 3rd close reading
+March 23: 2nd seminar paper
+March 30: 3rd criticism reading
+April 6: 2nd bringfood
+April 20: 3rd seminar paper
 
 ### Part 1: surveillance, omniscience, self-making, realism
 
@@ -84,7 +72,6 @@ some topics:  publishing,  precarity, autobiography; novel theory; realism overv
 + Regina Gagnier, from *Subjectivites*
 + FID reading
 + Trev Lynn Broughton, "Life Writing" in *The Routledge Companion to Victorian Literature*
-+ Catherine Gallagher, "The Rise of Fictionality"
 + 19th c copyright reading
 + CopyrightX Week 3
 + discussion and outline: Shaoni, Nicole
@@ -93,15 +80,15 @@ some topics:  publishing,  precarity, autobiography; novel theory; realism overv
 + seminar paper/reflection: Maya
 + break: Maya
 
-#### Week 4, February 17: women's writing, precarity, serialization, publication
+#### Week 4, February 17: free indirect discourse, women's writing, precarity, serialization, publication
 
 some topics: women's writing;  Trollope and/vs Oliphant; comparison; gender and character; carrying over from week 2 especially series and seriality; status and class; precarity
 
 + Margaret Oliphant, Miss Marjoribanks (1866), through chapter 26 (about half)
-+  serialization reading
-+  serialization reading
-+  19th c copyright reading
-+ precarity reading
++  Dorrit Cohn, "Narrated Monologue" from *Transparent Minds* 
++  D.A. Miller, from *Jane Austen and the Secret of Style* (except from chapter 3; chapter 1 optional)
++  Margaret Oliphant, "Sensation Novels"
++ CopyrightX, Week 4
 + discussion and outline: Maya, Theo
 + close reading: Maya
 + criticism summary: Theo
@@ -116,13 +103,12 @@ six Barsetshire novels or the Carlingford novels as part of a single world?); ro
 + Miss Marjoribanks (1865-6), second half
 + Lauren Goodlad, "Bigger Love"
 + Eric Hayot, from *On Literary Worlds*
++ Catherine Gallagher, "The Rise of Fictionality"
 + discussion and outline: Shaoni, Nicole
 + close reading: Maya
 + criticism summary: Nicole, Theo
-+ seminar paper/reflection: Shaoni
++ seminar paper/reflection: Shaoni, Theo
 + break: Nicole
-
-*Trip to PMA Designs for Different Futures exhibit Wednesday evening*
 
 *Feb 28: To Be Human conference at Haverford (of potential interest, not required)*
 
