@@ -7,13 +7,25 @@
 + instructor: Rachel Sagner Buurma
 + email: rbuurma1@swarthmore.edu
 + office: LPAC 302 (English Department) + Parrish W201 (Aydelotte Foundation)
-+ office hours: W 103 in LPAC 302 and by appointment
++ office hours: W 1-3 in LPAC 302 and by appointment
 
 ---
 
-This research-intensive honors seminar centers around two simple central questions: *How are Victorian novels made?* and *How is scholarship about Victorian novels made?* We will focus on the Victorian novel as both a genre and a material object, examining it within the context of the broader world of Victorian literature and culture in order to examine the ways in which the Victorian novel was both product and producer of its historical moment. We will explore the possibilities for rethinking canonical twentieth-century theories of novelistic realism, following a recent flourishing in Victorianist criticism on referentiality in order to ask how Victorian novels may be said to refer to the real worlds their authors and readers inhabited. In order to study this theoretical question, we will turn to the set of practices and processes through which Victorian novelists gathered the things of the world into their novels: research. Reading several major and minor Victorian novels, we will trace different forms of evidence of the ways their authors searched sets of documents, took notes, and organized information to perform research of all kinds in the library and on the streets. We will examine the published and unpublished commonplace books, notecards, papers, files, and marginalia of Victorian novelists both canonical and forgotten along with published descriptions of these novelists’ research practices and their representations of research in the novels they wrote. We will engage with criticism and theory from a number of fields, including book history, theories of materiality, historicisms old and new, theories of narrative and realism, genetic and textual criticisms, bibliometrics, media history, and digital humanities.
+This honors seminar focuses around the novel and the autobiography,  two genres central to the second half of the nineteenth century. Intensive study of theories of the novel, narrative theory, fictionality, ideas about life writing will help us ask what different models of represnting
 
-This class will help you develop our skills in research in print, digital, and manuscript or typescript sources; how to use and evaluate a range of databases and digital tools; how to think about citation practices as substantive and central to our work as scholars of literature. It will ask you to examine your own implicit and explicit research practices and habits, and (in some cases) to experiment with modifying them or developing new ones. We may incorporate various computational elements into our work, from the basics of plain-text authoring, citation management, and keeping an open research notebook to using digital tools to help us analyze individual novels and groups of novels.
+Writing, self-narration, surveillance, and
+different models of interiority
+different ways of theorizing narrative
+different genres
+
+We will pay some attention to the materiality of the texts through which these narratives are written, printed, published, and circulated, studying in particular the ways serialiation, circulating libraries, and print format work to shape - and are shaped by - literary meaning.
+
+How the forms we use to represent ourselves and others not only partially determine what we can say, but also can leave accidental traces that may have unintended effects.
+
+In the middle of the semester we will flash forward to look at a contemporary novel and a contemporary autobiography in order to take some measure of the distance (or closeness) between the novelistic and autobiographical forms and themes of the nineteenth century and those of our own moment.
+
+Incorporating the  Harvard Law CopyrightX curriculum - focused on the theory and practice of contemporary American copyright law - alongside our study of primarily nineteeth-century British texts will help us uncover the distance between the nineteenth century's working assumptions about intellectual property, authorship, and the ownership of texts and ideas as well as prompt us to consider the historical specificity of nineteeth-century copyright law.
+
 
 ### Part 1: surveillance, omniscience, self-making, realism
 
@@ -24,7 +36,7 @@ some topics: writing, property, precarity; novel theory; serialization, reviewin
 + Anthony Trollope, *Last Chronicle,* first half
 + Georg Lukacs, Part 1 of *The Theory of the Novel* (longish)
 + Ian Watt, from *The Rise of the Novel* (short)
-+ CopyrightX Week 1 (video and reading)
++ CopyrightX Week 1 (video and reading): The Foundations of Copyright Law
 + in class: seminar overview, survey of student interests, and sign-ups
 + in class: close reading the novel; what is a novel?
 
@@ -39,7 +51,7 @@ some topics: novel theory; realism overview; social networks; surveillance and o
 + Fredric Jameson, "The Realist Floor-plan"
 + Michel Foucault, "Panopticism" from *Discipline and Punish*
 + D.A. Miller, Chapter 1, *The Novel and the Police*
-+ Shoshanna Zubach, from *Surveillance Capitalism*,  Introduction
++ Shoshanna Zuboff, from *Surveillance Capitalism*,  Introduction
 + Sareeta Amrut, [review of *Surveillance Capitalism*](http://www.boundary2.org/2020/01/sareeta-amrute-sounding-the-flat-alarm-review-of-shoshana-zuboff-the-age-of-surveillance-capitalism/)
 + complete before class: [Dennis Tenen and Grant Wythoff’s plain-text authoring
 tutorial](https://github.com/dhcolumbia/pandoc-workflow/blob/master/main.md)
@@ -58,30 +70,29 @@ tutorial](https://github.com/dhcolumbia/pandoc-workflow/blob/master/main.md)
 some topics:  publishing,  precarity, autobiography; novel theory; realism overview; social networks; city and country; print circulation; news and gossip; series and seriality; status and class;
 
 + Trollope, *An Autobiography*
-+ Regina Gagnier, from *Subjectivites*
 + Rosemarie Bodenheimer, "Free Indirect Discourse"
 + Trev Lynn Broughton, "Life Writing" in *The Routledge Companion to Victorian Literature*
 + 19th c copyright reading
-+ CopyrightX Week 3
++ CopyrightX Week 2: Fairness and Personality Theories
 + discussion and outline: Shaoni, Nicole
 + close reading: Nicole
 + criticism summary: Shaoni
 + seminar paper/reflection: Maya
 + break: Maya
 
-#### Week 4, February 17: free indirect discourse, women's writing, precarity, serialization, publication
+#### Week 4, February 17
 
-some topics: women's writing;  Trollope and/vs Oliphant; comparison; gender and character; carrying over from week 2 especially series and seriality; status and class; precarity
+some topics: free indirect discourse; women's writing;  Trollope and/vs Oliphant; comparison; gender and character; carrying over from week 2 especially series and seriality; status and class; precarity
 
 + Margaret Oliphant, Miss Marjoribanks (1866), through chapter 26 (about half)
-+  Dorrit Cohn, "Narrated Monologue" from *Transparent Minds*
-+  D.A. Miller, from *Jane Austen and the Secret of Style* (except from chapter 3; chapter 1 optional)
++ D.A. Miller, from *Jane Austen and the Secret of Style* (except from chapter 3; chapter 1 optional)
++  Dorrit Cohn, "Narrated Monologue" from *Transparent Minds* (read quickly, consult handout for summary)
 +  Margaret Oliphant, "Sensation Novels"
-+ CopyrightX, Week 4
++ CopyrightX, Week 3: The Subject Matter of Copyright (pay special attention to the Fictional Characters lecture)
 + discussion and outline: Maya, Theo
 + close reading: Maya
 + criticism summary: Theo
-+ seminar paper/reflection: Shaoni
++ seminar paper/reflection:
 + break: Theo
 
 #### Week 5, February 24:
@@ -90,9 +101,10 @@ some topics: serials and series (what happens when we try to imagine all
 six Barsetshire novels or the Carlingford novels as part of a single world?); roman fleuve; marriage; travel; Trollope and/vs Oliphant; comparison; gender and character; carrying over from week 2 especially series and seriality; status and class; precarity
 
 + Miss Marjoribanks (1865-6), second half
-+ Lauren Goodlad, "Bigger Love"
 + Eric Hayot, from *On Literary Worlds*
 + Catherine Gallagher, "The Rise of Fictionality"
++ Review of "Miss Marjoriebanks"
++ Copyright X, week 4: Welfare Theory
 + discussion and outline: Shaoni, Nicole
 + close reading: Maya
 + criticism summary: Nicole, Theo
@@ -101,25 +113,42 @@ six Barsetshire novels or the Carlingford novels as part of a single world?); ro
 
 *Feb 28: To Be Human conference at Haverford (of potential interest, not required)*
 
-#### Week 6, March 2: Oliphant, continued
+#### Week 6, March 2: flash forward - contemporary novel, contemporary life writing
+
++ Tommy Orange, *There There* (2018)
++ Terese Marie Mailhot, *Heart Berries* (2018)
++ CopyrightX Week 5: Authorship
++ optional: autobiography and social media readings (in Dropbox)
++ 4:30 pm: *There There* panel in McCabe
++ reviews
++ discussion and outline: Maya, Theo
++ close reading: Maya, Theo
++ criticism summary: Shaoni
++ seminar paper/reflection: Nicole
++ break: Shaoni
+
+#### Week 7, March 9: spring break (read *An Autobiography* and "The Library Window"; begin *Villette*)
+
+#### Week 8, March 16: *An Autobiography* and "The Library Window"
 
 some topics:
 
 + Margaret Oliphant, *An Autobiography*
 + Margaret Oliphant, "The Library Window*
-+ Dorrit Cohn, summary handout and selection from *Transparent Minds*
-+ D.A. Miller, from *Jane Austen and the Secret of Style*
-+ Lit Lab Canon/Archive pamphlet
-+ another autobio reading
++ Ann Reus, "Two Libraries"
++ Korte, "Narrating Poverty and Precarity in Britain"
++ CopyrightX Week 7: The Rights to Reproduce and Modify
 + discussion and outline: Maya, Theo
 + close reading: Shaoni, Theory
 + criticism summary: Theo
 + seminar paper/reflection: Maya, Nicole
 + break: Maya
 
-#### Week 7, March 9: spring break (read *Villette*)
+*SHS paper assigned*
 
-#### Week 8, March 16: *Villette*
+*Tommy Orange visit, March 17, 4:30 pm*
+
+#### Week 9, March 23: *Villette*
 
 some topics: surveillance; realism and the occult; precarity; technology; gender and sexuality; Catholicism; domesticity; pedagogy; precarity and superfluous women (again)
 
@@ -133,41 +162,14 @@ some topics: surveillance; realism and the occult; precarity; technology; gender
 + Ted Underwood, David Bamman, and Sabrina Lee, [The Transformation of Gender in English-Language Fiction](http://culturalanalytics.org/2018/02/the-transformation-of-gender-in-english-language-fiction/) and
 +  take a look at the data and code for above article: https://github.com/tedunderwood/character
 + including this browsable interface that lets you explore the gendering of specific words: https://github.com/tedunderwood/character
++ CopyrightX Week 9: Fair Use
 + discussion and outline: Shaoni, Nicole
 + close reading: Shaoni
 + criticism summary: Maya, Nicole
 + seminar paper/reflection: Theo
 + break: Maya
 
-*SHS paper assigned*
-
-### Part 2:  knowledge organization, research,  technology, reference
-
-#### Week 9, March 23: indexing, knowledge org, research
-
-some topics: indexing, cataloging, classifying,  social problem novel,
-prison, asylum, investigative journalism; index, database vs [personal
-knowledge base](http://en.wikipedia.org/wiki/Personal_knowledge_base);
-Charles Reade’s open research notebook; returning to canon questions
-
-+ Charles Reade, *Hard Cash*, some of it (discuss in class)
-+ description of fictional novelist-researcher Rolfe from *A Terrible
-Temptation*
-+ Emerson Grant Sutcliffe, "Charles Reade's Notebooks" (skim)
-+ Charles Bankson, edition of Charles Reade’s *Hard Cash* notecards
-+ Mary Poovey, “Forgotten Writers, Neglected Histories”
-+ Lewis Haines, "Reade's Realistic Method" (skim)
-+ Simon Reader, “Victorian Notebooks: Source and Method”
-+ Ann Blair, “Note-taking as Information Management” from *Too Much to
-Know*
-+ Henry Wheatley, from What is an Index? (skim)
-+ discussion and outline: Maya, Theo
-+ close reading: Maya, Theo
-+ criticism summary: Shaoni
-+ seminar paper/reflection: Nicole
-+ break: Shaoni
-
-#### Week 10, March 30:
+#### Week 10, March 30: *Rajmohan's Wife*
 
 some topics: marriage plots, sensation, empire, global print circulation
 
@@ -233,101 +235,62 @@ some topics: sensation novel, gender and sexuality, surveillance, search and res
 + Sarah Allison, from *Reductive Reading*
 + examine [Quarry for
 Middlemarch](http://pds.lib.harvard.edu/pds/view/35524557 )
++ seminar paper: Theo
 + discussion and outline: all
 + break: Rachel
 
-#### April 29: SHS papers due (CHECK)
+#### April 29: SHS papers due
 
+#### April 30: seminar dinner, finish *Middlemarch*, seminar wrap-up
 
-+ discussion and outline:
-+ close reading:
-+ criticism summary:
-+ seminar paper: Theo
-+ break:
++ George Eliot, *Middlemarch* (1871-2), books 7, 8
+
 
 ***
-### Some alternatives for weeks 9-14 - poetry, and maybe more printing
+### Some alternatives for weeks 10-11-12
 
-Note: combine with some of "writing" week?
-
+### Current weeks 10-11-12: sensation novel in England and India
 #### Week 9
-Tennyson, *In Memoriam*
-Printing work - syllabus, poems, ?
++ Bankimchandra Chattopadhyay, *Rajmohan's Wife* (1864)
 
 #### Week 10
-Tennyson, *In Memoriam*
-Printing work
++ read *Lady Audley's Secret*
++ SHS workshop
 
 #### Week 11
++ Braddon, *Lady Audley's Secret*
+
+### More autobiography and domestic novel
+
+#### Week 10
 Browning, *Aurora Leigh*
-
-Week 12
-
-Week 13
-
-Week 14
-
-
-### Some alternatives for weeks 9-14 - empire
-
-#### Week 9
-Bankimchandra Chattopadhyay, *Rajmohan's Wife* (1864)
-Printing work - syllabus, poems, ?
-
-Week 10
-Bankimchandra Chattopadhyay, *Anandamath / The Abbey of Bliss* (1882)
-Printing work
-
-Week 11
-Krupabai Satthianadhan, *Saguna* (1887-8)
-
-Week 12
-Thackeray, *Vanity Fair* (1847) or *The Moonstone* (1868 or....)
-
-Week 13
-Thackeray, *Vanity Fair*
-
-Week 14
-Thackeray, *Vanity Fair*
-
-### Some alternatives for weeks 9-14 - more writing
-
-#### Week 9
-George Gissing, New Grub Street
-
-#### Week 10
-George Gissing, New Grub Street
+Tennyson, *In Memoriam* (excerpts)
 
 #### Week 11
-Grant Allan, Typewriter Girl
+read Jane Austen, *Emma* (SHS workshop)
 
 #### Week 12
-Bram Stoker, Dracula
+Jane Austen, *Emma*
 
-#### Week 13
-Bram Stoker, Dracula
 
-#### Week 14
-contemporary novel
+### more empire
 
-### We can also imagine an autobiography week, with 19th c  and a bit of contemporary writing, or more research (Dickens), or....
+#### Week 9
++ Bankimchandra Chattopadhyay, *Rajmohan's Wife* (1864)
 
-### what else?
+#### Week 10
++ read Krupabai Satthianadhan, *Saguna* (1887-8)
++ SHS workshop
+
+#### Week 11
++ Krupabai Satthianadhan, *Saguna* (1887-8)
+
 
 ***
-
-*seminar dinner to be scheduled*
-
-*April ??th SHS papers due*
-
-#### final meeting and seminar dinner
-
-#### May 17-19 honors
-
 ### Assignments
 
 #### Outline and discussion facilitation
-Every other week you will be responsible – in pairs - for facilitating discussion of the week’s material, including (but not at all limited to) all readings, seminar papers, close readings, critical summaries, CopyrightX material, and anything else on the week's agenda. Please plan to read the week’s materials, come up with a draft of the outline (in informal consultation with other seminar members if you like), and post your draft outline by Sunday at 7 pm to our outline site (more on which in class).  During this time the rest of the seminar members can access the outline and add any suggestions they may have. Then on Monday at 10:30 am thediscussion leaders will meet with me briefly in order strategize and finalize the outline. I will then provide copies for use in class. We can certainly diverge from this outline, but it is useful for us to have a general map of how you imagine the shape of the discussion might unfold. The outline is an interesting genre in and of itself; we’ll talk about its limitations and possibilities, its uses as a preparation for class, as a map during class, and as an enduring artifact after class is over. I can provide examples from past seminars if you wish. The outline is also (unlike your seminar papers, close readings, and criticism summaries) a public document, which we will likely share in some form. We will format all outlines in Markdown and use Pandoc to convert them into PDF for to print for reference during seminar.
+Every other week you will be responsible – in pairs - for facilitating discussion of the week’s material, including (but not at all limited to) all readings, seminar papers, close readings, critical summaries, CopyrightX material, and anything else on the week's agenda. Please plan to read the week’s materials, come up with a draft of the outline (in informal consultation with other seminar members if you like), and post your draft outline by Sunday at 7 pm.  During this time the rest of the seminar members can access the outline and add any suggestions they may have. Then on Monday at 10:30 am the discussion leaders will meet with me briefly in order strategize and finalize the outline. I will then provide copies for use in class. We can certainly diverge from this outline, but it is useful for us to have a general map of how you imagine the shape of the discussion might unfold. The outline is an interesting genre in and of itself; we’ll talk about its limitations and possibilities, its uses as a preparation for class, as a map during class, and as an enduring artifact after class is over. I can provide examples from past seminars if you wish. The outline is also (unlike your seminar papers, close readings, and criticism summaries) a public document, which we will likely share in some form. We will format all outlines in Markdown and use Pandoc to convert them into PDF for to print for reference during seminar.
 
 #### Seminar papers
 You will write three 1500-2500 word (3-4 page single-spaced) seminar papers over the course of the semester; they are due to our seminar Dropbox (more on
@@ -337,10 +300,8 @@ which in class) by 7 pm the Saturday before seminar.  The seminar paper should u
 You will write three 1-2-page single-spaced close readings of a few sentences or a paragraph of one of our fictional texts over the course of the semester; they are due to our seminar Dropbox (more on which in class) by 7 pm the Saturday before seminar.
 
 #### Criticism summaries
-You will write three 1-2 page (single-spaced) summaries of critical readings; like the seminar papers and close readings, they are due as PDFs or Word attachments by 7 pm the Wednesday before seminar. These should usually include a brief paragraph on the main claim and stakes of the reading, a more detailed overview of the argument, a note if relevant on the writer’s style, feeling, and tone, and particular mention (with page numbers) of points/passages you think are especially important for our purposes and/or require our critique. See handout on “reading criticism” for guidance if you like.
+You will write three 1-2 page (single-spaced) summaries of critical readings; like the seminar papers and close readings, they are due as PDFs or Word attachments by 7 pm the Saturday before seminar. These should usually include a brief paragraph on the main claim and stakes of the reading, a more detailed overview of the argument, a note if relevant on the writer’s style, feeling, and tone, and particular mention (with page numbers) of points/passages you think are especially important for our purposes and/or require our critique. See handout on “reading criticism” for guidance if you like.
 
-#### Research notes
-This is a research intensive seminar. By "research intensive," I mean that in addition to reading and responding to the texts included on the syllabus according to the terms and questions I put forward, you will be learning to both ask and answer your own questions about the Victorian novel. We’ll also attempt to reflect on the research process, looking at our own assumptions about what research is and does as compared with the research practices of Victorian novelists (among others).
 
 #### Seminar archive and site
 Our seminar's public site will feature at minimum our seminar's syllabus and our
@@ -354,7 +315,7 @@ Occasionally if relevant we will open our class to interested outside parties. F
 I want us to think about the long paper as a piece that draws together some of the various shorter writing pieces, research skills, and projects you will work on over the course of the semester. The long paper may draw on any aspect of the work you have done in the seminar; it should include an original argument about one of our novels, respond to the existing criticism of that novel, and incorporate original research. A substantial proposal, including a research organization plan, and perhaps the beginning of the paper, is due before March break, with a rough draft due soon after in early April.  If you are in Honors, this will become your SHS paper. I would like – but will not require because different students’ interests and needs will vary – for this paper to incorporate some significant original research.
 
 #### Final written and oral exam
-During finals period you will take a three-hour written exam; you may use your notes and books. You will then take an oral exam during finals period based on this exam, your long paper, and the entire semester’s readings. This is separate from and in addition to Honors examinations.
+During finals period you will take a three-hour written exam; you may use your notes and books. You will then take an oral exam during finals period based on this exam, your long paper, and the entire semester’s readings. We will schedule these individually. This is separate from and in addition to Honors examinations.
 
 #### Seminar break
 Each of you will bring part of break a few times during the semester. Consult with one another, and be creative! If this will be a financial hardship, please consult me.
@@ -376,15 +337,15 @@ we’re disposed to be).*
 
 #### Books
 The main books you will need to buy are:
-Anthony Trollope, Barchester Towers. Penguin ISBN-13: 978-0140432039
-Anthony Trollope, The Last Chronicle of Barset. Penguin ISBN-13: 978-0140437522
-Charles Reade, Hard Cash. Acquire your own copy - no current modern
-edition.
-Margaret Oliphant, Miss Marjoribanks.
-Charles Dickens, Our Mutual Friend. ISBN-13: 978-0199536252
-Mary Elizabeth Braddon, Lady Audley’s Secret. Oxford World’s Classics.
+Anthony Trollope, *The Last Chronicle of Barset*.  Penguin ISBN-13: 978-0140437522
+Anthony Trollope, *An Autobiography*
+Margaret Oliphant, *Miss Marjoribanks*
+Margaret Oliphant, *The Autobiography of Margaret Oliphant*
+Tommy Orange, *There There*
+Terese Mailhot, *Heart Berries*
+Mary Elizabeth Braddon, *Lady Audley’s Secret*. Oxford World’s Classics.
 978-0199577033
-George Eliot, Middlemarch. Penguin ISBN-13: 978-0141439549
+George Eliot, *Middlemarch*.  Penguin ISBN-13: 978-0141439549
 
 The books are available at the bookstore. You are also welcome to buy the books online or at a different store. Be aware that you need to have your own copy of the specific edition of each of the books listed above. All other texts will be available on Dropbox unless otherwise specified. Please print out, read, mark up, and bring to class ALL of the texts assigned as required reading for each week (this subject to modification in class).
 
@@ -435,7 +396,7 @@ class](http://isites.harvard.edu/icb/icb.do?keyword=k105983&pageid=icb.
 page689455),  Kornbluth’s [Novel
 Worlds](http://www.kornbluh.com/teaching/novel-worlds-realism-
 structuralism-aesthetics/)
-Mark Algee-Hewitt's 2015 HILT curriculum
+Laura McGrane's 18th Century Media class
 
 This syllabus is necessarily an incomplete document; we will revise and
 save versions of it as the class progresses. The most up-to-date copy
