@@ -11,18 +11,9 @@
 
 ---
 
-This honors seminar focuses around the novel and the autobiography,  two genres central to the second half of the nineteenth century. Intensive study of theories of the novel, narrative theory, fictionality, ideas about life writing will help us ask what different models of represnting
+This honors seminar focuses around the novel and (secondarily) the autobiography,  two genres central to the second half of the nineteenth century. Intensive study of theories of the novel, narrative theory, fictionality, and ideas about life writing will help us ask what different models of representing the narrative of a live and the truth of subjectivity existing during this half century - and how much these models continue to influence and shape our present moment, in which the novel-autobiography nexus seems once again especially important. (In the middle of the semester we will flash forward to look at a contemporary novel and a contemporary autobiography in order to take some measure of the distance (or closeness) between the novelistic and autobiographical forms and themes of the nineteenth century and those of our own moment.) We will focus especially closely on ideas about writing's aesthetics and economics, the rules that govern self-narration, and the effects of different forms of surveillance on narrative and the representation or formation of subjectivity.
 
-Writing, self-narration, surveillance, and
-different models of interiority
-different ways of theorizing narrative
-different genres
-
-We will pay some attention to the materiality of the texts through which these narratives are written, printed, published, and circulated, studying in particular the ways serialiation, circulating libraries, and print format work to shape - and are shaped by - literary meaning.
-
-How the forms we use to represent ourselves and others not only partially determine what we can say, but also can leave accidental traces that may have unintended effects.
-
-In the middle of the semester we will flash forward to look at a contemporary novel and a contemporary autobiography in order to take some measure of the distance (or closeness) between the novelistic and autobiographical forms and themes of the nineteenth century and those of our own moment.
+How the forms we use to represent ourselves and others not only partially determine what we can say, but also can leave accidental traces that may have unintended effects. We will pay some attention to the materiality of the texts through which these narratives are written, printed, published, and circulated, studying in particular the ways serialiation, circulating libraries, and print format work to shape - and are shaped by - literary meaning.
 
 Incorporating the  Harvard Law CopyrightX curriculum - focused on the theory and practice of contemporary American copyright law - alongside our study of primarily nineteeth-century British texts will help us uncover the distance between the nineteenth century's working assumptions about intellectual property, authorship, and the ownership of texts and ideas as well as prompt us to consider the historical specificity of nineteeth-century copyright law.
 
@@ -102,6 +93,7 @@ six Barsetshire novels or the Carlingford novels as part of a single world?); ro
 
 + Miss Marjoribanks (1865-6), second half
 + Eric Hayot, from *On Literary Worlds*
++ Pheng Cheah, Intro to "What is a World?"
 + Catherine Gallagher, "The Rise of Fictionality"
 + Review of "Miss Marjoriebanks"
 + Copyright X, week 4: Welfare Theory
@@ -135,7 +127,7 @@ some topics:
 
 + Margaret Oliphant, *An Autobiography*
 + Margaret Oliphant, "The Library Window*
-+ Ann Reus, "Two Libraries"
++ Megan Ward, from *Seeming Human* (on *Miss Marchbanks*)
 + Korte, "Narrating Poverty and Precarity in Britain"
 + CopyrightX Week 7: The Rights to Reproduce and Modify
 + discussion and outline: Maya, Theo
@@ -173,6 +165,7 @@ some topics: surveillance; realism and the occult; precarity; technology; gender
 
 some topics: marriage plots, sensation, empire, global print circulation
 
++ SHS outline discussion
 + Bankim Chandra Chatterjee / Bankimchandra Chattopadhyay, *Rajmohan's Wife* (1864) - 1935 edition pdf in Dropbox (first volume publication)
 + Meenakshi Mukherjee, Introduction to the [Penguin edition of RW](https://books.google.com/books?id=7U6y_6ArxLUC&lpg=PR1&pg=PR7#v=onepage&q&f=false)
 + Sukanya Banerjee, “Troubling Conjugal Loyalties: The First Indian Novel in English and the Transimperial Framework of Sensation”
@@ -191,28 +184,30 @@ novels?
 
 ### week of March 30 tba: printing workshop
 
-#### March 31: SHS paper rough draft due (seminar can finalize this date)
+#### Week 11, April 6: search and research: *Lady Audley's Secret*
 
-#### Week 11, April 6: SHS paper workshop
-
-+ Mary Elizabeth Braddon, *Lady Audley's Secret*, first half
-+ in-class SHS workshop
-+ break: Nicole
-
-#### Week 12, April 13:  search and research
 some topics: sensation novel, gender and sexuality, surveillance, search and research
 
-+ Mary Elizabeth Braddon, *Lady Audley's Secret* (1862), finish
-+ Margaret Oliphant, "Sensation Novels"
++ Mary Elizabeth Braddon, *Lady Audley's Secret*, first half
++  cherry blossoms?
++  Margaret Oliphant, "Sensation Novels"
 + Pamela Gilbert, "M.E. Braddon: Sensation Realism" from *Disease, Desire, and the Body in Women's Popular Novels"
 + Saverio Tomaiuoli, "Sensation fiction, empire and the Indian mutiny" in *The Cambridge Companion to Sensation Fiction"
 + Ted Underwood, "Theorizing Practices We Forgot to Theorize Twenty Years Ago"
 + Ted Underwood, "Intro: Historical Contrast and the Prestige of Literary Culture" and "Chapter 6: Digital Humanities and the Future of Literary History" in *Why Literary Periods Mattered : Historical Contrast and the Prestige of English Studies*
-+ Christina Sharpe, from *In the Wake*
 + discussion and outline: Maya, Theo
 + close reading: Nicole
 + criticism summary: Maya
 + seminar paper/reflection: Theo
++ break: Nicole
+
+#### Week 12, April 13:  SHS + *LAS*, continued
+
+*FULL SHS drafts due Saturday April 11*
+
++ Mary Elizabeth Braddon, *Lady Audley's Secret* (1862), finish
++ in-class SHS workshop
++ Christina Sharpe, from *In the Wake*
 + break: Shaoni
 
 *Christina Sharpe at Haverford, Thursday April 16th, 4:30 pm, VCAM*
@@ -239,54 +234,14 @@ Middlemarch](http://pds.lib.harvard.edu/pds/view/35524557 )
 + discussion and outline: all
 + break: Rachel
 
-#### April 29: SHS papers due
+#### Wednesday, April 29, 4:30 pm: SHS papers due
 
 #### April 30: seminar dinner, finish *Middlemarch*, seminar wrap-up
 
 + George Eliot, *Middlemarch* (1871-2), books 7, 8
 
+---
 
-***
-### Some alternatives for weeks 10-11-12
-
-### Current weeks 10-11-12: sensation novel in England and India
-#### Week 9
-+ Bankimchandra Chattopadhyay, *Rajmohan's Wife* (1864)
-
-#### Week 10
-+ read *Lady Audley's Secret*
-+ SHS workshop
-
-#### Week 11
-+ Braddon, *Lady Audley's Secret*
-
-### More autobiography and domestic novel
-
-#### Week 10
-Browning, *Aurora Leigh*
-Tennyson, *In Memoriam* (excerpts)
-
-#### Week 11
-read Jane Austen, *Emma* (SHS workshop)
-
-#### Week 12
-Jane Austen, *Emma*
-
-
-### more empire
-
-#### Week 9
-+ Bankimchandra Chattopadhyay, *Rajmohan's Wife* (1864)
-
-#### Week 10
-+ read Krupabai Satthianadhan, *Saguna* (1887-8)
-+ SHS workshop
-
-#### Week 11
-+ Krupabai Satthianadhan, *Saguna* (1887-8)
-
-
-***
 ### Assignments
 
 #### Outline and discussion facilitation
