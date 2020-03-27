@@ -86,7 +86,7 @@ some topics: free indirect discourse; women's writing;  Trollope and/vs Oliphant
 + seminar paper/reflection:
 + break: Theo
 
-#### Week 5, February 24:
+#### Week 5, February 24
 
 some topics: serials and series (what happens when we try to imagine all
 six Barsetshire novels or the Carlingford novels as part of a single world?); roman fleuve; marriage; travel; Trollope and/vs Oliphant; comparison; gender and character; carrying over from week 2 especially series and seriality; status and class; precarity
@@ -129,9 +129,8 @@ some topics:
 + Margaret Oliphant, "The Library Window*
 + Megan Ward, from *Seeming Human* (on *Miss Marchbanks*)
 + Korte, "Narrating Poverty and Precarity in Britain"
-+ CopyrightX Week 7: The Rights to Reproduce and Modify
 + discussion and outline: Maya, Theo
-+ close reading: Shaoni, Theory
++ close reading: Shaoni, Theo
 + criticism summary: Theo
 + seminar paper/reflection: Maya, Nicole
 + break: Maya
@@ -140,89 +139,48 @@ some topics:
 
 *Tommy Orange visit, March 17, 4:30 pm*
 
-#### Week 9, March 23: *Villette*
+#### Week 9/10, March 30: Tennyson, *In Memoriam*
+
+some topics: mourning, evolution,
+
++ Alfred Tennyson, *In Memoriam* (1850)
++ ['In Memoriam' manuscript notebook(Trinity College O.15.13)](https://cudl.lib.cam.ac.uk/view/MS-O-00015-00013/1)
++ response page: everyone
++ SHS plans and discussion: everyone
+
+#### Week 11, April 6: *Villette*
 
 some topics: surveillance; realism and the occult; precarity; technology; gender and sexuality; Catholicism; domesticity; pedagogy; precarity and superfluous women (again)
 
 + Charlotte Bronte, *Villette*
 + Mikhail Bakhtin, from "Discourse in the Novel," 259-331
 + Mikhail Bakhtin, from "Problems of Dostoevsky's Poetics," p 5-8 and skim for examples of polyphony
++ Look back at D.A. Miller, *The Novel and the Police*
 + Joseph Boone, "Depolicing Villette"
++ CopyrightX Week 7: The Rights to Reproduce and Modify
++ respones page: everyone
+
+
+
+#### Week 12, April 13: *Villette*
 + Sharon Marcus, *Between Women*, Introduction and Chapter 2
 + Stephen Best and Sharon Marcus, "Surface Reading: An Introduction"
 + William Cohen, "Why Is There So Much French in *Villette*?
 + Ted Underwood, David Bamman, and Sabrina Lee, [The Transformation of Gender in English-Language Fiction](http://culturalanalytics.org/2018/02/the-transformation-of-gender-in-english-language-fiction/) and
 +  take a look at the data and code for above article: https://github.com/tedunderwood/character
 + including this browsable interface that lets you explore the gendering of specific words: https://github.com/tedunderwood/character
-+ CopyrightX Week 9: Fair Use
-+ discussion and outline: Shaoni, Nicole
-+ close reading: Shaoni
-+ criticism summary: Maya, Nicole
-+ seminar paper/reflection: Theo
-+ break: Maya
++ CopyrightX Week 8: The Rights to Distribute, Perform, and Display
++ response page: everyone
 
-#### Week 10, March 30: *Rajmohan's Wife*
-
-some topics: marriage plots, sensation, empire, global print circulation
-
-+ SHS outline discussion
-+ Bankim Chandra Chatterjee / Bankimchandra Chattopadhyay, *Rajmohan's Wife* (1864) - 1935 edition pdf in Dropbox (first volume publication)
-+ Meenakshi Mukherjee, Introduction to the [Penguin edition of RW](https://books.google.com/books?id=7U6y_6ArxLUC&lpg=PR1&pg=PR7#v=onepage&q&f=false)
-+ Sukanya Banerjee, “Troubling Conjugal Loyalties: The First Indian Novel in English and the Transimperial Framework of Sensation”
-+ Supriya Chaudhuri, "Beginnings: Rajmohan’s Wife and the Novel in India," Chapter 1 of " *A History of the Indian Novel in English"
-+ Priya Joshi, *In Another Country*, Preface, chapter 2, chapter 4(optional)
-+ Anindita Ghosh, "Revisiting the 'Bengal Renaissance': Literary Bengali and Low-Life Print in Colonial Calcutta"
-+ optional: Satya P. Mohanty, "The Epistemic Work of Literary Realism: Two Novels from Colonial India,"" Chapter 2 of " *A History of the Indian Novel in English"
-+ carry forward: Barthes, "Reality Effect" and *Preparation"
-+ question: canon, archive, corpus: how do we think about all the
-novels?
-+ discussion and outline: Shaoni, Nicole
-+ close reading: Theo
-+ criticism summary: Nicole
-+ seminar paper/reflection: Shaoni
-+ break: Theo
-
-### week of March 30 tba: printing workshop
-
-#### Week 11, April 6: search and research: *Lady Audley's Secret*
-
-some topics: sensation novel, gender and sexuality, surveillance, search and research
-
-+ Mary Elizabeth Braddon, *Lady Audley's Secret*, first half
-+  cherry blossoms?
-+  Margaret Oliphant, "Sensation Novels"
-+ Pamela Gilbert, "M.E. Braddon: Sensation Realism" from *Disease, Desire, and the Body in Women's Popular Novels"
-+ Saverio Tomaiuoli, "Sensation fiction, empire and the Indian mutiny" in *The Cambridge Companion to Sensation Fiction"
-+ Ted Underwood, "Theorizing Practices We Forgot to Theorize Twenty Years Ago"
-+ Ted Underwood, "Intro: Historical Contrast and the Prestige of Literary Culture" and "Chapter 6: Digital Humanities and the Future of Literary History" in *Why Literary Periods Mattered : Historical Contrast and the Prestige of English Studies*
-+ discussion and outline: Maya, Theo
-+ close reading: Nicole
-+ criticism summary: Maya
-+ seminar paper/reflection: Theo
-+ break: Nicole
-
-#### Week 12, April 13:  SHS + *LAS*, continued
-
-*FULL SHS drafts due Saturday April 11*
-
-+ Mary Elizabeth Braddon, *Lady Audley's Secret* (1862), finish
-+ in-class SHS workshop
-+ Christina Sharpe, from *In the Wake*
-+ break: Shaoni
-
-*Christina Sharpe at Haverford, Thursday April 16th, 4:30 pm, VCAM*
+#### Saturday, April 11: SHS DRAFT DUE
 
 #### Week 13, April 20: reference and everyday life
 + George Eliot, *Middlemarch* (1871-2), books 1, 2, 3
 + Leah Price, from *The Anthology and the Rise of the Novel*
 + David Kurnick, “An Erotics of Detachment"
-
-+ SHS work
-+ discussion and outline: Shaoni, Nicole
-+ close reading: Shaoni, Theo
-+ criticism summary: Shaoni, Maya
-+ seminar paper/reflection: Nicole
-+ break: Rachel
++ CopyrightX Week 9: Fair Use
++ response page: everyone
++ Markup and comment on drafts: Everyone 
 
 #### Week 14, April 27: social totalities and literary values
 + George Eliot, *Middlemarch* (1871-2), books 4, 5, 6
@@ -230,15 +188,15 @@ some topics: sensation novel, gender and sexuality, surveillance, search and res
 + Sarah Allison, from *Reductive Reading*
 + examine [Quarry for
 Middlemarch](http://pds.lib.harvard.edu/pds/view/35524557 )
-+ seminar paper: Theo
-+ discussion and outline: all
-+ break: Rachel
++ CopyrightX Week 10: Cultural Theory
++ response page: everyone
 
 #### Wednesday, April 29, 4:30 pm: SHS papers due
 
-#### April 30: seminar dinner, finish *Middlemarch*, seminar wrap-up
+#### Week 15, May 4:  finish *Middlemarch*, seminar wrap-up
 
 + George Eliot, *Middlemarch* (1871-2), books 7, 8
++ virtual seminar dinner
 
 ---
 
